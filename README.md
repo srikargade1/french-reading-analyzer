@@ -70,5 +70,8 @@ Vocabulary CEFR levels are sourced from the FLELex TreeTagger corpus, built by t
 
 ## ✨ Author
 
-Built by [Your Name], with the goal of bridging NLP and language pedagogy.  
-If you found this useful, feel free to star ⭐, fork 🍴, or share 🙌
+Built by Venkata Gade, with the goal of bridging NLP and language pedagogy.
+
+This API is part of a larger project — **Aaron**, an intelligent language learning app I’m building that offers CEFR-aligned reading materials, grammar-aware feedback, and personalized vocabulary tracking.
+
+If you found this useful, feel free to ⭐ star, 🍴 fork, or 🙌 share!
